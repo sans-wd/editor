@@ -1,0 +1,27 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  background-color: rgb(71, 66, 66);
+}
+#kvadrat {
+  width: 100px;
+  height: 100px;
+  background: red;
+  float: left;
+}
+h3 {
+  font-size: 18px;
+  padding-top: 5px;
+  color: aliceblue;
+}
+input,
+select {
+  border-radius: 50px;
+  box-shadow: 0px 3px 6px 3px #b284be1f, 0px 6px 10px 3px #b284be38,
+    0px 9px 14px 3px #b284be33, 0px 18px 16px 6px #b284be47;
+  background-color: #b284be80;
+  border: 1px solid #b284beb3;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: white;
+}
